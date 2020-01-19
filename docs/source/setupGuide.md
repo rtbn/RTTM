@@ -12,7 +12,7 @@ Install via Docker
 
 * execute *docker build .*
 
-* Run *docker exec -it <container id> /bin/bash*
+* Run *docker run -it <container id> /bin/bash*
 
 * Now once in docker navigate to */opt/RTTM/script*
 
